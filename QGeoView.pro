@@ -1,3 +1,4 @@
+#miki test
 CONFIG += ordered
 TEMPLATE = subdirs
 SUBDIRS = \
